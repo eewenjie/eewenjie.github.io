@@ -32,3 +32,19 @@
 "Planck":
   - firstname: ["Max"]
     url: https://en.wikipedia.org/wiki/Max_Planck
+
+"Srinivasan":
+  - firstname: ["Dipti",'D.']
+    url: https://www.ece.nus.edu.sg/gems/profhome.html
+
+"Gandhi":
+  - firstname: ["Oktoviano",'O.']
+    url: https://www.ogandhi.com/
+
+"Rodríguez-Gallegos":
+  - firstname: ["CD",'C.', 'Carlos D', 'Carlos D.', 'Carlos']
+    url: https://www.researchgate.net/profile/Carlos-Rodriguez-Gallegos
+
+"Quan":
+  - firstname: ["Hao", 'H.']
+    url: https://scholar.google.com.sg/citations?user=YF-ihEoAAAAJ&hl=en

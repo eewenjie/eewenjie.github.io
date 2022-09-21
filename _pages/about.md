@@ -2,24 +2,33 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: An Energy Researcher, An AI Engineer # <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: wenjie_zhang.jpeg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>NUS</p>
+    <p>Singapore</p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
+***Doctor of philosophy***
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+- **[National University of Singapore]({{site.data.venues.NUS.url}})**
+- **Supervior: [Prof. Dipti Srinivasan]({{site.data.coauthors.Srinivasan[0].url}})**
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+- **2015.08 - 2020.03**
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+***Bachelor of Engineering***
+- **[School of Artificial Intelligence and Automation]({{site.data.venues.AIA.url}})**
+
+- **[Huazhong University of Science and Technology]({{site.data.venues.HUST.url}})**
+
+- **2011.09 - 2015.06**
+
+<!-- Currently, I am Research Fellow in [Green Energy Management and Smart Grid Research Center (GEMS)]({{site.data.venues.GEMS.url}}),[Department of Electrical and Computer Engineering (ECE)]({{site.data.venues.ECE.url}}). I was a visiting scholar in [Stanford University]({{site.data.venues.STANFORD.url}}) in 2019. -->
+My research interests broadly covers big data analytics, machine learning, graph nerual netwrok, interpretability and its applications to smart energy systems.
