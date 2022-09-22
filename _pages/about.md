@@ -31,4 +31,4 @@ social: true  # includes social icons at the bottom of the page
 - **2011.09 - 2015.06**
 
 <!-- Currently, I am Research Fellow in [Green Energy Management and Smart Grid Research Center (GEMS)]({{site.data.venues.GEMS.url}}),[Department of Electrical and Computer Engineering (ECE)]({{site.data.venues.ECE.url}}). I was a visiting scholar in [Stanford University]({{site.data.venues.STANFORD.url}}) in 2019. -->
-My research interests broadly covers big data analytics, machine learning, graph nerual netwrok, interpretability and its applications to smart energy systems.
+My research interests broadly cover big data analytics, machine learning, graph nerual netwrok, interpretability and its applications to smart energy systems.
