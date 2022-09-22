@@ -12,6 +12,12 @@ hr {
   border-top: 1px solid var(--global-divider-color);
 }
 
+hr {
+  border-color: var(--global-text-color);
+  background-color: var(--global-text-color);
+  color: var(--global-text-color);
+}
+
 table {
   td, th {
     color: var(--global-text-color);
