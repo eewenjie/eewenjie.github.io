@@ -10,3 +10,4 @@ Gemfile.lock
 vendor
 
 *.bib.sav.tmp
+_tmp/*

@@ -21,10 +21,9 @@ const urls = {
     THESIS: "https://scholarbank.nus.edu.sg/handle/10635/166266",
     GRAB: "https://www.grab.com/sg/"
   };
-// const yaml = require('js-yaml');
 // const fs = require('fs');
-// const urls = yaml.load(fs.readFileSync("_data/venues.yml", 'utf8'));
-// const urls2 = yaml.load(fs.readFileSync("_data/coauthors.yml", 'utf8'));
+// const urls = jsyaml.load(fs.readFileSync("_data/venues.yml", 'utf8'));
+// const urls2 = jsyaml.load(fs.readFileSync("_data/coauthors.yml", 'utf8'));
 // for (const [key, value] of Object.entries(urls2)) {
 //     urls[key] = value[0];
 //   }
