@@ -45,6 +45,10 @@
   - firstname: ["CD",'C.', 'Carlos D', 'Carlos D.', 'Carlos']
     url: https://www.researchgate.net/profile/Carlos-Rodriguez-Gallegos
 
+"D Rodríguez-Gallegos":
+  - firstname: ["C",'C.', 'Carlos']
+    url: https://www.researchgate.net/profile/Carlos-Rodriguez-Gallegos
+
 "Quan":
   - firstname: ["Hao", 'H.']
     url: https://scholar.google.com.sg/citations?user=YF-ihEoAAAAJ&hl=en
