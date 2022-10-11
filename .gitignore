@@ -11,3 +11,4 @@ vendor
 
 *.bib.sav.tmp
 _tmp/*
+.idea/*
