@@ -29,16 +29,20 @@
 - title: Experience
   type: time_table
   contents:
+    - title: Research Fellow
+      institution: <a class="link" tabindex="1" onclick="javascript:showWindow('NUS');">National University of Singapore (NUS)</a>, Singapore
+      year: 2022.08 - 2023.01
+
     - title: Lead Data Scientist
       institution: <a class="link" tabindex="1" onclick="javascript:showWindow('GRAB');">Grab</a>, Singapore
-      year: 2019.08 - Now
+      year: 2019.08 - 2022.08
 
     - title: Visiting Scholar
       institution: <a class="link" tabindex="1" onclick="javascript:showWindow('STANFORD');">Stanford University</a>, US
       year: 2019
 
     - title: Research Intern
-      institution: Univeristy of Houston, US
+      institution: <a class="link" tabindex="1" onclick="javascript:showWindow('UHOUSTON');">University of Houston</a>, US
       year: 2014
 
 - title: Open Source Projects

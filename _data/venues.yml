@@ -37,3 +37,12 @@ THESIS:
 
 GRAB:
   url: "https://www.grab.com/sg/"
+
+EE-PolyU:
+  url: "https://www.polyu.edu.hk/en/ee/"
+
+UHOUSTON:
+  url: "https://www.uh.edu/"
+
+PolyU:
+  url: "https://www.polyu.edu.hk/en/"
