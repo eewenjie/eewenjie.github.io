@@ -29,9 +29,9 @@
 - title: Experience
   type: time_table
   contents:
-    - title: Research Fellow
+    - title: Research Fellow, Industrial Mentor, Adjunct Research Fellow
       institution: <a class="link" tabindex="1" onclick="javascript:showWindow('NUS');">National University of Singapore (NUS)</a>, Singapore
-      year: 2022.08 - 2023.01
+      year: 2020.03 - 2023.01
 
     - title: Lead Data Scientist
       institution: <a class="link" tabindex="1" onclick="javascript:showWindow('GRAB');">Grab</a>, Singapore
