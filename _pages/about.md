@@ -10,7 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   address: >
     <p>Research Assitant Professor</p>
-    <p>EE</p>
+    <p>EEE</p>
     <p>PolyU</p>
 
 news: true  # includes a list of news items
