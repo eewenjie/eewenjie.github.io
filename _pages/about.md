@@ -13,11 +13,6 @@ news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-***Research Assistant Professor***
-
-- **[Department of Electrical Engineering]({{site.data.venues.EE-PolyU.url}})**
-- **[The Hong Kong Polytechnic University]({{site.data.venues.PolyU.url}})**
-- **2023.01 - 2024.05**
   
 ***Doctor of philosophy***
 
